@@ -20,9 +20,9 @@ This application consist of mainly 3 sections-
 3.     Database: - Store information about teachers and students
 
 Steps to Run the application
-DB Script -> Execute DB script over Sql server management studio so it will create DB and tables along with data
-Core Api Service -> extract ExamResultsPortalWebAPI.zip and open .sln file in visual studio to host application over server like IIS, IIS Empress
-Angular Web Client -> extract ExamResultsPortalClient.zip and open solution in visual studio code and execute command below 
+•	DB Script -> Execute DB script over Sql server management studio so it will create DB and tables along with data
+•	Core Api Service -> extract ExamResultsPortalWebAPI.zip and open .sln file in visual studio to host application over server like IIS, IIS Empress
+•	Angular Web Client -> extract ExamResultsPortalClient.zip and open solution in visual studio code and execute command below 
 		1) npm install
 		2) npm start
 browse application over any browser to view web client
